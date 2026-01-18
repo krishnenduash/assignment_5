@@ -3,7 +3,7 @@
 2.   Asks the user to input a student's name.
 3.   Retrieves and displays the corresponding marks.
 4.   If the student’s name is not found, display an appropriate message.
-5.   Student's name are : arjun    raja    ram    bhim
+5.   Student's name are : arjun,    raja,    ram,    bhim.
 # Task 2: Demonstrate List Slicing 
 1.   Creates a list of numbers from 1 to 10.
 2.   Extracts the first five elements from the list.
